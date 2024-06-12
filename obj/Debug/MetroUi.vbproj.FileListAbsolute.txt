@@ -1,0 +1,8 @@
+c:\users\manthan\documents\visual studio 2010\Projects\MetroUi\MetroUi\bin\MetroUi.dll
+c:\users\manthan\documents\visual studio 2010\Projects\MetroUi\MetroUi\bin\MetroUi.pdb
+c:\users\manthan\documents\visual studio 2010\Projects\MetroUi\MetroUi\bin\MetroUi.xml
+c:\users\manthan\documents\visual studio 2010\Projects\MetroUi\MetroUi\obj\Debug\MetroUi.Resources.resources
+c:\users\manthan\documents\visual studio 2010\Projects\MetroUi\MetroUi\obj\Debug\MetroUi.vbproj.GenerateResource.Cache
+c:\users\manthan\documents\visual studio 2010\Projects\MetroUi\MetroUi\obj\Debug\MetroUi.dll
+c:\users\manthan\documents\visual studio 2010\Projects\MetroUi\MetroUi\obj\Debug\MetroUi.xml
+c:\users\manthan\documents\visual studio 2010\Projects\MetroUi\MetroUi\obj\Debug\MetroUi.pdb
